@@ -2,4 +2,4 @@ Hi, I am Abhimanyu and I am experienced at programming.
 
 **Skills**
 __________________________________________________________________________
-![Python logo](pythLogo.md)
+![Python logo](Python-logo-notext.svg.png.md)
