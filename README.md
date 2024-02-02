@@ -1,6 +1,6 @@
-Hi, I am Abhimanyu and I am experienced at programming.
+_Hi, I am Abhimanyu and I am experienced at programming._
 
 **Skills**
 __________________________________________________________________________
 
-![Python Logo](image.png)
+![Python Logo](png-transparent-python-logo-thumbnail) ![C Logo]()
