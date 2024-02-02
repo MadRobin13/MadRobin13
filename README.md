@@ -2,6 +2,7 @@
 
  - _I am a programming member and the human player for FRC team 1360 Orbit Robotics_
  - _I am an FLL coach for team 60977 as part of the Halton Stem Club_
+ - _I enjoy making projects in my free time_
 
 
 __________________________________________________________________________
