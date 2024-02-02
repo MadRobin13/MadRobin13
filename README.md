@@ -1,4 +1,4 @@
-_Hi, I am Abhimanyu, a 15 year-old a lot of experience with programming and hardware._
+_Hi, I am Abhimanyu, a 15 year-old with a lot of experience in programming and hardware._
 
 **Skills**
 __________________________________________________________________________
