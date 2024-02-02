@@ -15,6 +15,6 @@ __________________________________________________________________________
 
 **Tools/Frameworks:**
 
-[Raspberry Pi](Rasp_logo_small_1inch.png) [Linux Logo](Linux_logo_small_1inch.png) [Solidworks Logo](SolidWorks_logo_small_1inch.png) ![]
+![Raspberry Pi](Rasp_logo_small_1inch.png) ![Linux Logo](Linux_logo_small_1inch.png) ![Solidworks Logo](SolidWorks_logo_small_1inch.png)
 
 //Raspberry Pi, Linux, Solidworks, Fusion 360, Blendr, Wpilib, VSCode, Eclipse, IntelliJ, JavaFX, Prusa Slicer, Rev Hardware Client
