@@ -1,7 +1,7 @@
-_Hi, I am Abhimanyu, a 15 year-old with a lot of experience in programming and hardware._
+***Hi, I am Abhimanyu, a 15 year-old with a lot of experience in programming and hardware.***
 
- - I am a programming member and the human player for FRC team 1360 Orbit Robotics
- - I am an FLL coach for team 60977 as part of the Halton Stem Club
+ - _I am a programming member and the human player for FRC team 1360 Orbit Robotics_
+ - _I am an FLL coach for team 60977 as part of the Halton Stem Club_
 
 
 __________________________________________________________________________
