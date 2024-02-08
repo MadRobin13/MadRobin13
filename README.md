@@ -1,3 +1,5 @@
+## About Me:
+
 ***Hi, I am Abhimanyu, a 15 year-old with a lot of experience in programming and hardware.***
 
  - _I am a programming member and the human player for FRC team 1360 Orbit Robotics_
@@ -7,19 +9,19 @@
 
 __________________________________________________________________________
 
-**Languages:**
+## Languages:
 
 ![Python Logo](Python_logo_small_1inch_mrk2.png) ![C Logo](C_logo_small_1inch.png) ![java Logo](Java_logo_small_1inch_mrk2.png) ![C++ logo](C++_logo_small_1inch.png)
 
 __________________________________________________________________________
 
-**Interests:**
+## Interests:
 
 ![JavaScript Logo](JS_logo_small_1inch.png) ![Node.js logo](Node_logo_small_1inch.png) ![HTML Logo](HTML_logo_small_1inch.png) ![CSS Logo](CSS_logo_small_1inch.png) ![Astro Logo](Astro_logo_small_1inch.png)
 
 __________________________________________________________________________
 
-**Tools/Frameworks:**
+## Tools/Frameworks:
 
 ![Raspberry Pi](Rasp_logo_small_1inch.png) ![Linux Logo](Linux_logo_small_1inch.png) ![Solidworks Logo](SolidWorks_logo_small_1inch.png) ![Fusion 360 logo](Fusion_360_logo_small_1inch_mrk2.png) ![Blendr Logo](Blendr_logo_small_1inch_mrk2.png) ![VSCode Logo](VSCode_logo_small_1inch.png) ![Eclipse Logo](Eclipse_logo_small_1inch.png) ![IntelliJ Logo](IntelliJ_logo_small_1inch.png) ![Prusa Slicer Logo](Prusa_Slicer_logo_small_1inch.png)
 
