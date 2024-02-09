@@ -18,7 +18,7 @@ __________________________________________________________________________
 
 ## Interests:
 
-![JavaScript Logo](JS_logo_small_1inch.png) ![Node.js logo](Node_logo_small_1inch.png) ![HTML Logo](HTML_logo_small_1inch.png) ![CSS Logo](CSS_logo_small_1inch.png) ![Astro Logo](Astro_logo_small_1inch.png)
+![JavaScript Logo](JS_logo_small_1inch.png) ![Node.js logo](Node_logo_small_1inch.png) ![HTML Logo](HTML_logo_small_1inch.png) ![CSS Logo](CSS_logo_small_1inch.png)
 
 __________________________________________________________________________
 
