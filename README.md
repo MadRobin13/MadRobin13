@@ -24,5 +24,5 @@ __________________________________________________________________________
 
 ## Tools/Frameworks:
 
-![Raspberry Pi](Rasp_logo_small_1inch.png) ![Linux Logo](Linux_logo_small_1inch.png) ![Solidworks Logo](SolidWorks_logo_small_1inch.png) ![Fusion 360 logo](Fusion_360_logo_small_1inch_mrk2.png) ![Blendr Logo](Blendr_logo_small_1inch_mrk2.png) ![VSCode Logo](VSCode_logo_small_1inch.png) ![Eclipse Logo](Eclipse_logo_small_1inch.png) ![IntelliJ Logo](IntelliJ_logo_small_1inch.png) ![Prusa Slicer Logo](Prusa_Slicer_logo_small_1inch.png) ![Wolfram Logo](Wolfram_logo_small_1inch_mrk2.png)
+![Raspberry Pi](Rasp_logo_small_1inch.png) ![Linux Logo](Linux_logo_small_1inch.png) ![Solidworks Logo](SolidWorks_logo_small_1inch.png) ![Fusion 360 logo](Fusion_360_logo_small_1inch_mrk2.png) ![Blendr Logo](Blendr_logo_small_1inch_mrk2.png) ![VSCode Logo](VSCode_logo_small_1inch.png) ![Eclipse Logo](Eclipse_logo_small_1inch.png) ![IntelliJ Logo](IntelliJ_logo_small_1inch.png) ![Prusa Slicer Logo](Prusa_Slicer_logo_small_1inch.png) ![Wolfram Logo](Wolfram_logo_small_1inch_mrk2.png) ![Arduino Logo](Arduino_logo_small_1inch.png)
 
