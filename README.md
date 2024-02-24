@@ -12,17 +12,17 @@ __________________________________________________________________________
 
 ## Languages:
 
-![Python Logo](.\images\Python_logo_small_1inch_mrk2.png) ![C Logo](.\images\C_logo_small_1inch.png) ![java Logo](.\images\Java_logo_small_1inch_mrk2.png) ![C++ logo](.\images\C++_logo_small_1inch.png)
+![Python Logo](Python_logo_small_1inch_mrk2.png) ![C Logo](C_logo_small_1inch.png) ![java Logo](Java_logo_small_1inch_mrk2.png) ![C++ logo](C++_logo_small_1inch.png)
 
 __________________________________________________________________________
 
 ## Interests:
 
-![JavaScript Logo](.\images\JS_logo_small_1inch.png) ![Node.js logo](.\images\Node_logo_small_1inch.png) ![HTML Logo](.\images\HTML_logo_small_1inch.png) ![CSS Logo](.\images\CSS_logo_small_1inch.png)
+![JavaScript Logo](JS_logo_small_1inch.png) ![Node.js logo](Node_logo_small_1inch.png) ![HTML Logo](HTML_logo_small_1inch.png) ![CSS Logo](CSS_logo_small_1inch.png)
 
 __________________________________________________________________________
 
 ## Tools/Frameworks:
 
-![Raspberry Pi](.\images\Rasp_logo_small_1inch.png) ![Linux Logo](.\images\Linux_logo_small_1inch.png) ![Solidworks Logo](.\images\SolidWorks_logo_small_1inch.png) ![Fusion 360 logo](.\images\Fusion_360_logo_small_1inch_mrk2.png) ![Blendr Logo](.\images\Blendr_logo_small_1inch_mrk2.png) ![VSCode Logo](.\images\VSCode_logo_small_1inch.png) ![Eclipse Logo](Eclipse_logo_small_1inch.png) ![IntelliJ Logo](I.\images\ntelliJ_logo_small_1inch.png) ![Prusa Slicer Logo](.\images\Prusa_Slicer_logo_small_1inch.png) ![Wolfram Logo](.\images\Wolfram_logo_small_1inch_mrk2.png) ![Arduino Logo](.\images\Arduino_logo_small_1inch.png)
+![Raspberry Pi](Rasp_logo_small_1inch.png) ![Linux Logo](Linux_logo_small_1inch.png) ![Solidworks Logo](SolidWorks_logo_small_1inch.png) ![Fusion 360 logo](Fusion_360_logo_small_1inch_mrk2.png) ![Blendr Logo](Blendr_logo_small_1inch_mrk2.png) ![VSCode Logo](VSCode_logo_small_1inch.png) ![Eclipse Logo](Eclipse_logo_small_1inch.png) ![IntelliJ Logo](IntelliJ_logo_small_1inch.png) ![Prusa Slicer Logo](Prusa_Slicer_logo_small_1inch.png) ![Wolfram Logo](Wolfram_logo_small_1inch_mrk2.png) ![Arduino Logo](Arduino_logo_small_1inch.png)
 
