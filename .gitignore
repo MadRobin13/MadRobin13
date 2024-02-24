@@ -2,4 +2,4 @@
 *.png
 
 # Except for those referenced in the README
-!README.md
+!README.md 
