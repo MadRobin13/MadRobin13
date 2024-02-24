@@ -1,1 +1,5 @@
+# Ignore all .png images
 *.png
+
+# Except for those referenced in the README
+!README.md
