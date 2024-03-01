@@ -18,7 +18,7 @@ __________________________________________________________________________
 
 ## Interests:
 
-![JavaScript Logo](JS_logo_small_1inch.png) ![Node.js logo](Node_logo_small_1inch.png)
+![JavaScript Logo](JS_logo_small_1inch.png) ![Node.js logo](Node_logo_small_1inch.png) ![Tensorflow Logo](Tensorflow_logo_small_1inch.png)
 
 __________________________________________________________________________
 
