@@ -21,7 +21,7 @@
  
 ## Interests:
 
-![Tensorflow Logo](Tensorflow_logo_small_1inch.png) ![Kotlin Logo](Kotlin_logo_small_1inch.png) ![GO Logo](GO_logo_small_1inch.png) ![React Logo](React_logo_small_1inch.png) ![Swift Logo](Swift_logo_small_1inch.png)
+![Pytorch Logo](Pytorch_logo_small_1inch.png) ![Kotlin Logo](Kotlin_logo_small_1inch.png) ![GO Logo](GO_logo_small_1inch.png) ![React Logo](React_logo_small_1inch.png) ![Swift Logo](Swift_logo_small_1inch.png)
  
  
  
