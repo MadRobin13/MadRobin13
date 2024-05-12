@@ -11,6 +11,13 @@
   
    
 
+## Recent Awards:
+
+ - Best use of AI (Eureka Hacks 2024)
+ - Best .xyz domain name (Eureka Hacks 2024)
+
+
+
 
 ## Languages:
 
