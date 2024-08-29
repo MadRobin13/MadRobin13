@@ -15,6 +15,7 @@
 
  - Best use of AI (Eureka Hacks 2024)
  - Best .xyz domain name (Eureka Hacks 2024)
+ - AI and ML Certification - University of Toronto
 
 
 
