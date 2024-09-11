@@ -17,7 +17,7 @@
  - Best .xyz domain name (Eureka Hacks 2024)
  - AI and ML Certification - University of Toronto
 
-
+![AI and ML Cetification](https://github.com/MadRobin13/Assets/blob/302f3ad9e7c24165693184e6aef21f32d539b201/readme_imgs/ai-and-ml-with-python-skill-circuit-stream-in-partn.png)
 
 
 ## Languages:
