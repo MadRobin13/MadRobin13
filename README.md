@@ -13,8 +13,7 @@
 
 ## Recent Awards:
 
- - Best use of AI (Eureka Hacks 2024)
- - Best .xyz domain name (Eureka Hacks 2024)
+ - Best use of AI - Eureka Hacks 2024 (only team to win 2 awards)
  - AI and ML Certification - University of Toronto
 
 [![AI and ML Cetification](https://github.com/MadRobin13/Assets/blob/594fd049bbd3913c9c2fb5cadb5b239c8056eb46/readme_imgs/ai-and-ml-with-python-skill-circuit-stream-in-partn%20(3).png)](https://www.credly.com/badges/7dc8a2c8-3deb-4af7-b55c-ce09bcd9eb37/public_url)
