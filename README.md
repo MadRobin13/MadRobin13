@@ -10,7 +10,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MadRobin13&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MadRobin13&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies: 
 ![](https://github-profile-trophy.vercel.app/?username=MadRobin13&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
