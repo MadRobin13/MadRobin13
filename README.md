@@ -12,6 +12,8 @@
 
 # ⚡My Most Recent Project:
 <a href="https://youtu.be/gZj0zO0jsb4?si=udHkYgT6jPetP09A"><img src="https://raw.githubusercontent.com/MadRobin13/Assets/refs/heads/main/Muse/Muse_white_with_blackBG_logo.png" width="100px"/></a>
+<br>
+_*Click on it! ;)*_
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MadRobin13&theme=tokyonight&hide_border=false)<br/>
